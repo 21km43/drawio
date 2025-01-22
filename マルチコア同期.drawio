@@ -101,11 +101,14 @@
             <mxPoint x="310" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qzr4x4b0WC48PWO0vG4D-25" value="処理開始要求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qzr4x4b0WC48PWO0vG4D-25" value="開始要求" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="315" y="430" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qzr4x4b0WC48PWO0vG4D-26" value="処理完了通知" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="660" width="90" height="30" as="geometry" />
+        <mxCell id="qzr4x4b0WC48PWO0vG4D-26" value="完了通知" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="595" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qzr4x4b0WC48PWO0vG4D-27" value="DSM" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="525" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
