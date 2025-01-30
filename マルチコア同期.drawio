@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.10">
   <diagram name="ページ1" id="RiC1qsOWWhuBx3b6LQET">
-    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="478" dy="249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sKgbOW6Ae2z0dJOd7zyF-14" value="FPGA board" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="350" y="910" width="240" height="160" as="geometry" />
+        <mxCell id="sKgbOW6Ae2z0dJOd7zyF-14" value="" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=right;verticalLabelPosition=bottom;align=left;verticalAlign=top;fontStyle=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="910" width="210" height="160" as="geometry" />
         </mxCell>
         <mxCell id="qzr4x4b0WC48PWO0vG4D-1" value="PE0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
@@ -222,9 +222,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKgbOW6Ae2z0dJOd7zyF-10" value="Control signal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sKgbOW6Ae2z0dJOd7zyF-3">
+        <mxCell id="sKgbOW6Ae2z0dJOd7zyF-10" value="信号制御" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sKgbOW6Ae2z0dJOd7zyF-3">
           <mxGeometry x="-0.52" y="1" relative="1" as="geometry">
-            <mxPoint x="39" y="10" as="offset" />
+            <mxPoint x="29" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKgbOW6Ae2z0dJOd7zyF-2" value="Vivado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -240,11 +240,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="945" as="sourcePoint" />
             <mxPoint x="280" y="945" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sKgbOW6Ae2z0dJOd7zyF-15" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sKgbOW6Ae2z0dJOd7zyF-9">
-          <mxGeometry x="-0.55" y="-2" relative="1" as="geometry">
-            <mxPoint x="-14" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sKgbOW6Ae2z0dJOd7zyF-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BRAM&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
