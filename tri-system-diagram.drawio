@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.0.11">
   <diagram name="全体図" id="6K07M-bdMIoADG_4eisC">
-    <mxGraphModel dx="794" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,7 +82,7 @@
         <mxCell id="qhWnbRb1_LZRBb_jjzeY-23" value="&lt;font color=&quot;#ff7b00&quot;&gt;UART&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="389" y="180" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="IAhwxvjueymBkviinYW7-1" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00c227;" parent="1" vertex="1">
+        <mxCell id="IAhwxvjueymBkviinYW7-1" value="SPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#008000, #00a01a);" parent="1" vertex="1">
           <mxGeometry x="569" y="180" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IAhwxvjueymBkviinYW7-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="qhWnbRb1_LZRBb_jjzeY-7" target="qhWnbRb1_LZRBb_jjzeY-2" edge="1">
@@ -157,7 +157,7 @@
         <mxCell id="kn0atQgipb4GcFfO1hs7-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#333333;strokeColor=light-dark(#000000, #959595);strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="60" y="90" width="110" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="5KmOA9PAkvmJi2R7xXo4-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" edge="1" parent="1" target="qhWnbRb1_LZRBb_jjzeY-8">
+        <mxCell id="5KmOA9PAkvmJi2R7xXo4-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#008000, #ce6100);entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#000000;" parent="1" target="qhWnbRb1_LZRBb_jjzeY-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="559" y="204.5" as="sourcePoint" />
             <mxPoint x="609" y="204.5" as="targetPoint" />
