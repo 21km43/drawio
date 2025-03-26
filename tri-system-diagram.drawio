@@ -192,8 +192,8 @@
         <mxCell id="rOg-yM2_KAsI7TXyr_-D-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;計測システム&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="65" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rOg-yM2_KAsI7TXyr_-D-18" value="M5 GNSS Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="557" y="91.25" width="100" height="20" as="geometry" />
+        <mxCell id="rOg-yM2_KAsI7TXyr_-D-18" value="M5Stack GNSS Module" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="91.25" width="137" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
